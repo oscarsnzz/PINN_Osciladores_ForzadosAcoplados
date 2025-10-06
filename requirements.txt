@@ -13,3 +13,4 @@ scipy
 torch>=1.12
 tqdm
 pillow
+ipywidgets
