@@ -1,0 +1,13 @@
+# Entornos virtuales (Python)
+.venv/
+venv/
+env/
+ENV/
+venv.bak/
+env.bak/
+
+# Si usas direnv
+.direnv/
+
+# (Opcional) archivo de pyenv
+.python-version

@@ -1,0 +1,15 @@
+numpy
+matplotlib
+matplotlib-inline
+scipy
+torch>=1.12
+tqdm
+pillow
+numpy
+matplotlib
+pandas
+matplotlib-inline
+scipy
+torch>=1.12
+tqdm
+pillow
